@@ -22,3 +22,8 @@ The project demonstrates the use of Convolutional Neural Networks (CNNs) and oth
 * Dataset: Images from https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization.
 
 * Preprocessing: OpenCV for image manipulation.
+
+## Example Results
+
+![image](https://github.com/user-attachments/assets/cd236705-7b0d-43f0-9b43-ec1f57397a2e)
+
