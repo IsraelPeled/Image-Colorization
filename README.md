@@ -10,8 +10,7 @@ The project demonstrates the use of Convolutional Neural Networks (CNNs) and oth
 * Utilizes a pre-trained deep learning model for efficient and accurate results.
 
 * Supports batch processing of images.
-  
-* Easy-to-use interface for uploading and colorizing images.
+
 
 ## Technologies Used
 
@@ -21,7 +20,6 @@ The project demonstrates the use of Convolutional Neural Networks (CNNs) and oth
 
 * Dataset: Images from https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization.
 
-* Preprocessing: OpenCV for image manipulation.
 
 ## Example Results
 
